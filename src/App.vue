@@ -25,7 +25,6 @@ const showPassword = ref(false)
         <div class="form-shell">
           <div class="brand mobile-brand">
             <img class="logo-img" src="/logoimg.png" alt="Team Achieve logo" />
-            <span class="brand-name">Team Achieve</span>
           </div>
 
           <h1>Welcome Back</h1>
